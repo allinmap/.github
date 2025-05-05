@@ -7,5 +7,6 @@ We believe in the community and we built a platform to allow users to share poin
 
 You can find us on
 
+- <a href="https://allinmap.app">Website</a>
 - <a href="https://play.google.com/store/apps/details?id=com.anonymous.AllInMap">Play Store</a>
 - <a href="https://apps.apple.com/it/app/allinmapp/id6739364773">App Store</a> 
